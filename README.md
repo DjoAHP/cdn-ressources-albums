@@ -10,7 +10,7 @@ https://github.com/DjoAHP/cdn-ressources-albums
 
 ## Lien cdn.jsdelivr.net:
 
-https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.0.8/
+https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.0.12/
 
 ## Commandes push Depot GH:
 
@@ -34,6 +34,6 @@ git push --tags
 ### Utilise le tag dans le CDN:
 
 ```bash
-<script src="https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.0.1/js/test.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.0.12/js/test.js"></script>
 
 ```
