@@ -1,4 +1,4 @@
-const render3DAlbum = (projectName) => {
+export const render3DAlbum = (projectName) => {
   const BASE_URL =
     "https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@main/images/";
 
@@ -74,5 +74,3 @@ const render3DAlbum = (projectName) => {
     document.body.classList.toggle("disabled"),
   );
 };
-
-render3DAlbum("are-you-experienced");
