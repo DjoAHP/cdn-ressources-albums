@@ -2,7 +2,6 @@
 <p align="center">
   <img src="images/preview-3d.gif" width="300" alt="Animation du projet">
 </p>
-![Preview album](images/preview-3d.gif)
 
 ## Depot Gihub:
 
