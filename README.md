@@ -1,6 +1,6 @@
 # CDN ressources Album
 
-![Preview album](readme-exemple.jpg)
+![Preview album](images/readme-exemple.jpg)
 
 ## Depot Gihub:
 
