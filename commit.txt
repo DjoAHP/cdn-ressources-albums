@@ -1,0 +1,9 @@
+Docs	📝	README, docs
+Feature	✨	Nouvelle fonctionnalité
+Fix	🐛	Bug
+Refactor	♻️	Nettoyage
+Style	🎨	Visuel / UI
+Assets	🖼️	Images
+Media	🎬	GIF / vidéo
+Config	⚙️	Config
+Init	🎉	Premier commit
