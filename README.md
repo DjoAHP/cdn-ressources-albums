@@ -13,3 +13,10 @@ git add .
 git commit -m "Ajout nouvelles ressources"
 git push
 ```
+
+# Forcer push Depot GH vers jsLivr:
+
+```bash
+git tag v1.0.1
+git push --tags
+```
