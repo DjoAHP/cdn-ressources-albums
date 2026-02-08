@@ -1,13 +1,14 @@
-# Depot Gihub:
+# CDN ressources Album
+
+## Depot Gihub:
 
 https://github.com/DjoAHP/cdn-ressources-albums
 
-# Lien cdn.jsdelivr.net:
+## Lien cdn.jsdelivr.net:
 
-https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.08/
+https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.0.8/
 
-
-# Commandes push Depot GH:
+## Commandes push Depot GH:
 
 ```bash
 git add .
@@ -15,17 +16,18 @@ git commit -m "Ajout nouvelles ressources"
 git push
 ```
 
-# Créer une version stable pour jsdeLivr
+## Créer une version stable pour jsdeLivr
 
-## Forcer push Depot GH vers jsdeLivr:
+### Forcer push Depot GH vers jsdeLivr:
 
 ```bash
 git tag v1.0.1
 git push --tags
 ```
+
 /////////////////////////////
 
-## Utilise le tag dans le CDN:
+### Utilise le tag dans le CDN:
 
 ```bash
 <script src="https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.0.1/js/test.js"></script>
