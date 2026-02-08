@@ -1,5 +1,7 @@
 # CDN ressources Album
 
+![Preview album](readme-exemple.jpg)
+
 ## Depot Gihub:
 
 https://github.com/DjoAHP/cdn-ressources-albums
