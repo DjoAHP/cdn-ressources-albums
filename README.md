@@ -1,6 +1,6 @@
-# CDN ressources Album
+# CDN ressources Album 3D
 
-![Preview album](images/readme-exemple.jpg)
+![Preview album](images/preview-3d.gif)
 
 ## Depot Gihub:
 
