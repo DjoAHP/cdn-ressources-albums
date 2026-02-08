@@ -7,3 +7,5 @@ Assets	🖼️	Images
 Media	🎬	GIF / vidéo
 Config	⚙️	Config
 Init	🎉	Premier commit
+
+git commit -m "🎬 ajout gif"
