@@ -8,5 +8,5 @@ Media	🎬	GIF / vidéo
 Config	⚙️	Config
 Init	🎉	Premier commit
 
-git commit -m "📝 MODIF README" 
+git commit -m "📝 MODIF JS" 
 .....
