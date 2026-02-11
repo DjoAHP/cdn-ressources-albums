@@ -8,5 +8,5 @@ Media	🎬	GIF / vidéo
 Config	⚙️	Config
 Init	🎉	Premier commit
 
-git commit -m "🖼️ ajout live-jam" 
+git commit -m "🖼️ trie albums" 
 .....
