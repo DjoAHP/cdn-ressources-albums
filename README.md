@@ -35,6 +35,7 @@ git push --tags
 
 ```bash
 ./release.sh
+./release.sh "Fix bug login"
 ```
 
 ### Utilise le tag dans le CDN:
