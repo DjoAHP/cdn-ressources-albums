@@ -4,13 +4,14 @@
   <img src="images/preview-3d.gif" width="300" alt="Animation du projet">
 </p>
 
+
 ## Depot Gihub:
 
 https://github.com/DjoAHP/cdn-ressources-albums
 
 ## Lien cdn.jsdelivr.net:
 
-https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.1.5/
+https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.1.6/
 
 ## Commandes push Depot GH:
 
