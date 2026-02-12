@@ -11,7 +11,7 @@ https://github.com/DjoAHP/cdn-ressources-albums
 
 ## Lien cdn.jsdelivr.net:
 
-https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.1.8/
+https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.1.9/
 
 ## Commandes push Depot GH:
 
