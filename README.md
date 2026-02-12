@@ -4,7 +4,6 @@
   <img src="images/preview-3d.gif" width="300" alt="Animation du projet">
 </p>
 
-
 ## Depot Gihub:
 
 https://github.com/DjoAHP/cdn-ressources-albums
@@ -31,6 +30,12 @@ git push --tags
 ```
 
 /////////////////////////////
+
+## Tout automatisé PUSH
+
+```bash
+./release.sh
+```
 
 ### Utilise le tag dans le CDN:
 
