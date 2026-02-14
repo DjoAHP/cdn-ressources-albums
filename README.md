@@ -41,6 +41,6 @@ git push --tags
 ### Utilise le tag dans le CDN:
 
 ```bash
-<script src="https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.1.25/js/test.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.1.26/js/test.js"></script>
 
 ```
