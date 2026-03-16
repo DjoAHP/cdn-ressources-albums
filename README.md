@@ -25,7 +25,7 @@ git push
 ### Forcer push Depot GH vers jsdeLivr:
 
 ```bash
-git tag v1.0.1
+git tag v1.1.59
 git push --tags
 ```
 
@@ -41,6 +41,6 @@ git push --tags
 ### Utilise le tag dans le CDN:
 
 ```bash
-<script src="https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.1.59/js/test.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/DjoAHP/cdn-ressources-albums@v1.1.60/js/test.js"></script>
 
 ```
